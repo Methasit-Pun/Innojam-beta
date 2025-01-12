@@ -1,6 +1,6 @@
 ---
 
-# InnoJam - Where Innovation Meets Creativity (Planning Phase)
+# InnoJam - Where Innovation Meets Creativity (Building Phase)
 
 **InnoJam** is an EdTech platform designed to help students, innovators, and creators kickstart their projects with ease. By combining AI-driven guidance with an innovative approach to idea generation, InnoJam provides students with personalized project suggestions based on their interests and professor-assigned topics, fostering creativity and innovation within academic settings.
 
